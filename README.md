@@ -17,9 +17,7 @@ Composer package manager (https://getcomposer.org/download/)
 
 <h4>Install dependencies:</h4>
 
-<code>
-composer install
-</code>
+<code>composer install</code>
 
 <h2>Configuration:</h2>
 Related configs added for CLI command <code>app:create-author</code> are located inside <strong>config/q-api</strong>
